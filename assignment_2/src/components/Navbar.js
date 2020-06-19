@@ -36,8 +36,8 @@ export default class Navbar extends Component {
           <a href="/location.html" className="button is-light">
             <strong>HOSPITAL LOCATION</strong>
           </a>
-          <a href="/feedback" className="button is-light">
-            <strong>FEEDBACK</strong>
+          <a href="/contactus.html" className="button is-light">
+            <strong>CONTACT US</strong>
           </a>
         </div>
       </nav >
