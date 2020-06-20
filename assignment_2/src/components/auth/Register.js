@@ -322,7 +322,7 @@ class Register extends Component {
               <div className="field">
                 <p className="control">
                   <button className="button is-success">
-                    Register
+                    BOOK APPOINTMENT
                 </button>
                 </p>
               </div>
